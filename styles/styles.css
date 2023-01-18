@@ -1,0 +1,30 @@
+* {
+	margin:0;
+	box-sizing:border-box;
+}
+
+body{
+	width: 60vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	height: 30vh;
+}
+
+.titulo{
+	background: rgb(62, 62, 226);
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+}
+
+.titulo img{
+	width: 70%;
+	height: 70%;
+	place-self: center;
+}
+
+main{
+	margin-top: 10px;
+}
