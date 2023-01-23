@@ -1,0 +1,36 @@
+*{
+    margin:0;
+	box-sizing:border-box;
+}
+
+body{
+    padding-left: 13vw;
+    padding-right: 13vw;
+}
+
+header{
+    background: rgb(14, 14, 65);
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    margin-top: 30px;
+}
+
+div {
+    background: rgb(152, 160, 152);
+    margin:0;
+	border-radius: 5px 5px 0 0 ;
+}
+
+div h4{
+    background: rgb(54, 54, 91);
+    color:white;
+    border-radius: 5px 5px 0 0 ;
+    padding-left: 10px;
+}
