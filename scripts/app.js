@@ -1,1 +1,15 @@
-document.getElementById("a").innerHTML = new Date(document.lastModified);
+function lastModified() {
+    
+let oalast =  document.lastModified;
+document.getElementById("lastModify").innerHTML = oalast;
+
+}
+    lastModified();
+
+
+
+
+
+
+
+
