@@ -59,7 +59,7 @@ h4{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 0.3fr 0.3fr 0.3fr 3fr 4fr;
-    height: 160vh;
+    height: 165vh;
 }
 
 .cuadro1_p p, .cuadro1_p a{
@@ -75,14 +75,14 @@ h4{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 0.3fr 0.3fr 0.3fr 3fr 4fr;
-    height: 160vh;
+    height: 165vh;
 }
 
 .cuadro3{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 0.3fr 0.3fr 0.3fr 3fr 4fr;
-    height: 160vh;
+    height: 165vh;
 }
 
 /*--- nombre de la página ---*/
